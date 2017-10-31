@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Abel|Cairo');
+
+body {
+  font-family: 'Abel', sans-serif;
+}
+
+.jumbotron {
+background-image: url("img/background.png");
+background-size: cover;}
+
+a:link {
+    text-decoration: none;
+}
